@@ -11,7 +11,7 @@
 
 <br>
 <br>
-<h1 align="center">Top 5 Projects</h2>
+<!-- <h1 align="center">Top 5 Projects</h2>
 <div align="center">
     <h3>Rust + Crossterm Text Editor</h3>
     <h3>Custom Clojure Database</h3>
@@ -20,7 +20,7 @@
     <h3>React/TSX Personal Website</h3>
 </div>
 
-<br>
+<!-- <br>
 <br>
 <h1 align="center"> Projects In Progress </h2>
 <div align="center">
@@ -28,7 +28,7 @@
     <h3>Rust Browser Engine</h3>
     <h3>React Notetaking App</h3>
     <h3>React/TSX + Python + Golang Redis Cache => Stock Website</h3>
-</div>
+</div> --> -->
 
 <hr>
 <!-- <p align="center">
